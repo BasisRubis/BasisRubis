@@ -4,7 +4,6 @@
 
 - [ ] 🍨 Publier mon portfolio
 - [ ] 🥃 Réaliser plusieurs projets que j'ai en tête
-- [ ] 🍟 Terminer le parcours de formation Javascript, Node.js, React et Vue.js sur **[Dyma](https://dyma.fr/)**
 
 ### Mes objectifs pour 2021 💫
 
